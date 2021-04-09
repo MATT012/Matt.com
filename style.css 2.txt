@@ -1,0 +1,20 @@
+ h1 {
+            color: white;
+            background-color: black;
+        }
+ p {
+            color: orange;
+            font-size: 16px;
+            background-color: #246aae;
+        }
+ h3 {
+            background-color: darkgrey;
+            color: white;
+        }
+ table,th,td {
+            border: 2px solid white;
+            text-align: center;
+        }
+ table texts {
+            color: orange;
+    }
