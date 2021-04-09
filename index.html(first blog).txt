@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Matt's Blog</title>
+   <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+     <nav>
+         <ul>
+               <li><a href="index.htlml>Home</a></li>
+               <li><a href="about.html>About</a></li>
+               <li><a href="contact.html>Contact</a></li>
+            </ul>
+        </nav>
+        <h1>My first blog</h1>
+        h1 {
+            color: white;
+            background-color: black;
+        }
+        <p>Hi,my name is Matthew Emmanuel Martua Hutagaol and i'm 14 years old. I'm a student and i'm currently studying at SMPK Penabur Depok.
+        My activity right know is studying for my final exam and study coding. I don't know what else to write so,yeah.</p>
+        p {
+            color: orange;
+            font-size: 16px;
+            background-color: #246aae;
+        }
+        <h3>My Activity</h3>
+        h3 {
+            background-color: darkgrey;
+            color: white;
+        }
+        <table>
+             <caption class="title">My daily activity</caption>
+             <tr>
+                 <th>Time</th>
+                 <th>Activity</th>
+            </tr>
+            <tr>
+                 <td>5 AM</td>
+                 <td>Wake up</td>
+            </tr>
+            <tr>
+                 <td>7 Am</td>
+                 <td> Start online school</td>
+            </tr>
+            <tr>
+                 <td>1 PM</td>
+                 <finish online school and continue studying by myself</td>
+            </tr>
+            <tr>
+                  <td>8 PM</td>
+                  <td>Stop studying and watch youtube and stuff</td>
+            </tr>
+            <tr>
+                  <td> 10PM</td>
+                  <td>Go to sleep</td>
+            </tr>
+        </table>
+        table,th,td {
+            border: 2px solid white;
+            text-align: center;
+        }
+        table texts {
+            color: orange;
+        }
+        <h2>Leave your comments here</h2>
+        <form>
+        <input type="name" placeholder="Your name">
+        <input type="email-address" placeholder="Your email address">
+        <textarea name="comment>Leave your comments here</textarea>
+</body>
+</html>
